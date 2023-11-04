@@ -15,7 +15,7 @@
   <a href="https://github.com/developers192/Adaptive">
     <img src="asset/icon.png" alt="Logo" width="80" height="80">
   </a>
-<h3 align="center">DetailedLoLRPC</h3>
+<h3 align="center">Adaptive</h3>
 
   <p align="center">
     Automatically changes League settings for each mode.
