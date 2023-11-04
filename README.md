@@ -57,6 +57,6 @@ You will NOT get banned for using Adaptive since it will just change your config
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Disclaimer
-DetailedLoLRPC is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
+Adaptive is not endorsed by Riot Games and does not reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
