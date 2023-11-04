@@ -1,0 +1,13 @@
+*.exe
+*.lnk
+*.spec
+*.bat
+*.txt
+*.json
+*.ui
+
+.vscode/
+__pycache__/
+build/
+dist/
+Release/
