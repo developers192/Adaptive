@@ -72,6 +72,7 @@ class Window(QMainWindow, Ui_MainWindow):
         self.modeNameId = modes
         self.statusBar().clearMessage()
         
+        self.chooseMode.clear()
         self.chooseMode.addItems(list(modes.keys()))
         self.updateConfigList()
 
