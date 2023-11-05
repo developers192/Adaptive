@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<a href="https://github.com/developers192/Adaptive/graphs/contributors">![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=CLONES&query=count&url=https://gist.github.com/developers192/f788916a406d0450a691fc6b156f1cb1/raw/clone.json&style=for-the-badge)</a>
 <a href="https://github.com/developers192/Adaptive/releases/latest">![GitHub All Releases](https://img.shields.io/github/downloads/developers192/Adaptive/total.svg?style=for-the-badge)</a>
 <a href="https://github.com/developers192/Adaptive/stargazers">![Stargazers](https://img.shields.io/github/stars/developers192/Adaptive.svg?style=for-the-badge)</a>
 <a href="https://github.com/developers192/Adaptive/issues">![Issues](https://img.shields.io/github/issues/developers192/Adaptive.svg?style=for-the-badge)</a>
